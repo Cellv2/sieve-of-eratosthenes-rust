@@ -15,11 +15,15 @@ fn main() {
         }
     }
 
-    let output = primes
+    let largest_prime = primes.clone().into_iter().max();
+    let all_primes = primes
+        .clone()
         .into_iter()
         .map(|x| x.to_string())
         .collect::<Vec<_>>()
         .join(", ");
 
-    println!("{}", output);
+    println!("Calculating primes up to {}...", target_num);
+    println!("Largest prime: {:?}", largest_prime.unwrap());
+    println!("All primes: {}", all_primes);
 }
