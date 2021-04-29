@@ -1,6 +1,6 @@
 # What is this?
 
-I'm looking to start learning Rust a little, and ran across [this Reddid post](https://www.reddit.com/r/rust/comments/3g0k1q/small_projects_to_learn_rust/cttq68w).
+I'm looking to start learning Rust a little, and ran across [this Reddit post](https://www.reddit.com/r/rust/comments/3g0k1q/small_projects_to_learn_rust/cttq68w).
 
 In essence, the requirements are:
 
