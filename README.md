@@ -10,5 +10,5 @@ In essence, the requirements are:
 - [x] Pass in N as a command line argument
 - [x] Write an eratosthenes(limit N) function in a library
 - [ ] Profile code for speed
-- [ ] Write odds-only version
+- [ ] Write odds-only version (I think it means [this](https://en.wikipedia.org/wiki/Odds_algorithm))
 - [ ] Write 2357wheel ([info](https://en.wikipedia.org/wiki/Wheel_factorization))
