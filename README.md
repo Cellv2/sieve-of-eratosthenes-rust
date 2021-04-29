@@ -8,7 +8,7 @@ In essence, the requirements are:
 - [x] Find the largest prime up to limit N
 - [x] Find the list of primes up to limit N
 - [x] Pass in N as a command line argument
-- [ ] Write an eratosthenes(limit N) function in a library
+- [x] Write an eratosthenes(limit N) function in a library
 - [ ] Profile code for speed
 - [ ] Write odds-only version
 - [ ] Write 2357wheel ([info](https://en.wikipedia.org/wiki/Wheel_factorization))
